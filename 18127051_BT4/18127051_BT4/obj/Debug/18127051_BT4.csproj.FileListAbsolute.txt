@@ -1,0 +1,14 @@
+C:\Users\tphon\source\repos\18127051_BT4\18127051_BT4\bin\Debug\18127051_BT4.exe.config
+C:\Users\tphon\source\repos\18127051_BT4\18127051_BT4\bin\Debug\18127051_BT4.exe
+C:\Users\tphon\source\repos\18127051_BT4\18127051_BT4\bin\Debug\18127051_BT4.pdb
+C:\Users\tphon\source\repos\18127051_BT4\18127051_BT4\obj\Debug\18127051_BT4.csprojAssemblyReference.cache
+C:\Users\tphon\source\repos\18127051_BT4\18127051_BT4\obj\Debug\_18127051_BT4.Form1.resources
+C:\Users\tphon\source\repos\18127051_BT4\18127051_BT4\obj\Debug\_18127051_BT4.Properties.Resources.resources
+C:\Users\tphon\source\repos\18127051_BT4\18127051_BT4\obj\Debug\18127051_BT4.csproj.GenerateResource.cache
+C:\Users\tphon\source\repos\18127051_BT4\18127051_BT4\obj\Debug\18127051_BT4.csproj.CoreCompileInputs.cache
+C:\Users\tphon\source\repos\18127051_BT4\18127051_BT4\obj\Debug\18127051_BT4.exe
+C:\Users\tphon\source\repos\18127051_BT4\18127051_BT4\obj\Debug\18127051_BT4.pdb
+C:\Users\tphon\source\repos\18127051_BT4\18127051_BT4\bin\Debug\SharpGL.dll
+C:\Users\tphon\source\repos\18127051_BT4\18127051_BT4\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\tphon\source\repos\18127051_BT4\18127051_BT4\bin\Debug\SharpGL.WinForms.dll
+C:\Users\tphon\source\repos\18127051_BT4\18127051_BT4\obj\Debug\18127051_BT4.csproj.CopyComplete
